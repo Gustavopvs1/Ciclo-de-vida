@@ -1,4 +1,3 @@
-// ciclo de vida del sw
 //1.- install
 self.addEventListener('install', event => {
     console.log('Service Worker installed', event);
